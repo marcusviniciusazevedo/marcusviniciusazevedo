@@ -11,4 +11,5 @@ Aqui você tem acesso aos meus repositórios, trabalhos e experimentos que desen
 ![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/jQuery-black?style=flat&logo=jQuery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL_Server-black?style=flat&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/n8n-black?style=flat&logo=n8n&logoColor=white&color=black)
 
